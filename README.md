@@ -1,0 +1,1 @@
+# -TinyML-Classifica-o-do-Dataset-Wine-no-Raspberry-Pi-Pico-W
