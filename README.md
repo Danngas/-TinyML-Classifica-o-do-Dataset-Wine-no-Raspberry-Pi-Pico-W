@@ -71,7 +71,7 @@ Esse dataset foi escolhido por ser tabular simples, diferente do Iris utilizado 
 - Camada oculta 2: 8 neurônios (ativação ReLU)
 - Camada de saída: 3 neurônios (ativação Softmax)
 
-![Diagrama da Rede Neural](diagrama_rede.png)
+
 
 ---
 
@@ -82,10 +82,6 @@ Esse dataset foi escolhido por ser tabular simples, diferente do Iris utilizado 
 
 A diferença é esperada devido à menor precisão de ponto flutuante no RP2040 (float32 vs float64 no PC), especialmente em datasets com sobreposição de classes.
 
-![Matriz de Confusão - Colab](matriz_colab.png)  
-![Curva de Loss](curvas_loss.png)  
-![Curva de Acurácia](curvas_accuracy.png)  
-![Saída Serial - RP2040](serial_rp2040.png)
 
 ---
 
