@@ -1,8 +1,6 @@
 # TinyML – Classificação do Dataset Wine no Raspberry Pi Pico W  
 ### Prática com Rede Neural Artificial (RNA) para Microcontroladores
 
-![Banner da Aula](aula_sincrona.png)  
-![Tarefa em Grupo](tarefa.png)
 
 Este projeto implementa uma **Rede Neural Artificial (RNA)**, Perceptron Multicamadas (MLP), embarcada no **Raspberry Pi Pico W**, utilizando a biblioteca **TensorFlow Lite Micro (TFLM)** para executar inferência diretamente no microcontrolador — abordagem típica de **TinyML**.
 
